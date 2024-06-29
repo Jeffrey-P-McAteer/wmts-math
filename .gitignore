@@ -1,0 +1,6 @@
+*.png
+*.png.aux.xml
+__pycache__
+*site-packages
+*site-packages/
+
